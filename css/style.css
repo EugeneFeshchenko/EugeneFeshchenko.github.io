@@ -326,6 +326,11 @@
 		cursor: default;
 		margin: 0;
 	}
+        ul.social1 li{
+            display:inline-block;
+            width:45%;
+            text-align:left;
+        }
 	
 		ul.social li
 		{
