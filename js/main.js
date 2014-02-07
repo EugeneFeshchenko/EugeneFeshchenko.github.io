@@ -25,4 +25,9 @@ $(document).ready(function(){
             alert('Your message hase been sent')
         });
     })
+
+    $('#nav').singlePageNav({
+        offset: $('#nav').outerHeight()+15,
+    });
+
 })
