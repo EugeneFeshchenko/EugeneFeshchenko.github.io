@@ -28,6 +28,7 @@ $(document).ready(function(){
 
     $('#nav').singlePageNav({
         offset: $('#nav').outerHeight()+30,
+        filter: ':not(.cv)',
     });
 
 })
