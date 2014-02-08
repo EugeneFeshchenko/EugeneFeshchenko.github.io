@@ -67,7 +67,7 @@
 	
 	.button
 	{
-		padding: 1em 2.35em 1em 2.35em;
+		padding: 0.5em 1em;
 		font-size: 1.1em;
 	}
 
@@ -147,6 +147,10 @@
 			transition: background-color .2s ease-in-out;
 			color: #fff;
 		}
+                #nav li a.cv {
+                    font-weight:bold;
+                    text-decoration:underline;
+                }
 		
 /*********************************************************************************/
 /* Articles                                                                      */

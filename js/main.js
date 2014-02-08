@@ -27,7 +27,7 @@ $(document).ready(function(){
     })
 
     $('#nav').singlePageNav({
-        offset: $('#nav').outerHeight()+15,
+        offset: $('#nav').outerHeight()+30,
     });
 
 })
